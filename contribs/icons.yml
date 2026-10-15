@@ -60,7 +60,7 @@ native_camera: com.rawcam.app/com.rawcam.app.ui.MainActivity
 
 nepal_telecom: shirantech.android.nepaltelecom/shirantech.android.nepaltelecom.MainActivity
 
-nextgp: com.jscti.nextgp_f1motogp/com.jscti.nextgp_f1motogp.MainActivity
+nextgp_filled: com.jscti.nextgp_f1motogp/com.jscti.nextgp_f1motogp.MainActivity
 
 nicasia_mobank: com.f1soft.nicasiamobilebanking/com.f1soft.bankxp.android.login.splash.DynamicSplashActivity
 
